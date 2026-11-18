@@ -1,13 +1,10 @@
 Fridgy - projet simple (HTML / CSS / JavaScript)
 
-Pour lancer : ouvrir index.html dans le navigateur (double-clic).
-Il faut internet pour voir les photos (Unsplash) et les polices.
-
 Pages :
 - index.html         page d'accueil
-- connexion.html     connexion (pas fonctionnelle, mène au tableau de bord)
-- inscription.html   inscription (pas fonctionnelle, mène au tableau de bord)
-- dashboard.html     tableau de bord : frigo, préférences, recettes, courses
+- connexion.html     connexion 
+- inscription.html   inscription 
+- dashboard.html     tableau de bord : frigo, préférences, recettes, courses, planning
 - deconnexion.html   page de déconnexion
 
 Dossiers :
